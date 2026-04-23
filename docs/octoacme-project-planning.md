@@ -15,6 +15,10 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 4. Define Definition of Done (DoD)
 5. Identify dependencies and integration points
 6. Create release plan and milestone map
+7. Design Lead reviews scope for UI/UX implications and estimates design effort
+8. QA Lead drafts initial test plan and identifies testing dependencies
+9. DevOps Engineer reviews infrastructure and pipeline needs for the release
+10. Tech Writer identifies documentation deliverables and adds tasks to the backlog
 
 ## Backlog Item Template
 - Title:
@@ -40,4 +44,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Backlog prioritized and estimated
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
-- [ ] Initial test plan / QA approach drafted
+- [ ] Initial test plan / QA approach drafted (QA Lead)
+- [ ] Design Lead has reviewed scope and design deliverables are in the backlog
+- [ ] DevOps Engineer has reviewed infrastructure and pipeline requirements
+- [ ] Tech Writer has identified documentation tasks and added them to the backlog
