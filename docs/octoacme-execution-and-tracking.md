@@ -22,6 +22,8 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - End-to-end smoke tests for critical flows before release
 - Security scanning in CI
 - Manual QA for feature acceptance when needed
+- QA Lead reviews and signs off on acceptance criteria before stories are closed
+- DevOps Engineer maintains CI/CD pipeline health and integrates automated test runs
 
 ## Reporting & Metrics
 - Track velocity and burndown
@@ -38,3 +40,5 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+- [ ] QA Lead has reviewed and signed off on acceptance criteria for each story
+- [ ] DevOps Engineer has confirmed pipeline stability and environment readiness
